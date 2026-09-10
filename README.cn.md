@@ -4,7 +4,7 @@
 
 A (TUI/CLI) markdown navigator with tree-based structural navigation.
 
-![treemd](https://repo.x-cmd.io/treemd.svg)
+![treemd](https://repo.x-cmd.io/treemd.svg?lang=zh)
 
 ## 安装
 
@@ -20,9 +20,28 @@ x install treemd
 ## 发布
 
 - **最新版本**: `v0.7.0` (2026-08-27)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 15 个
-- **发布时间**: 2026-08-27T16:23:09Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [SHA256SUMS](https://github.com/Epistates/treemd/releases/download/v0.7.0/SHA256SUMS) | 729 B | `other` |
+| [treemd-aarch64-apple-darwin.sha256](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-aarch64-apple-darwin.sha256) | 94 B | `native/darwin/arm64` |
+| [treemd-aarch64-apple-darwin.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-aarch64-apple-darwin.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
+| [treemd-aarch64-unknown-linux-gnu.sha256](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-aarch64-unknown-linux-gnu.sha256) | 99 B | `native/linux/arm64/glibc` |
+| [treemd-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-aarch64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/arm64/glibc` |
+| [treemd-aarch64-unknown-linux-musl.sha256](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-aarch64-unknown-linux-musl.sha256) | 100 B | `native/linux/arm64/musl` |
+| [treemd-aarch64-unknown-linux-musl.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-aarch64-unknown-linux-musl.tar.gz) | 5.0 MiB | `native/linux/arm64/musl` |
+| [treemd-x86_64-apple-darwin.sha256](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-apple-darwin.sha256) | 93 B | `native/darwin/x64` |
+| [treemd-x86_64-apple-darwin.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/x64` |
+| [treemd-x86_64-pc-windows-msvc.exe.sha256](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-pc-windows-msvc.exe.sha256) | 99 B | `native/win/x64` |
+| [treemd-x86_64-pc-windows-msvc.exe.zip](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-pc-windows-msvc.exe.zip) | 3.3 MiB | `native/win/x64` |
+| [treemd-x86_64-unknown-linux-gnu.sha256](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-unknown-linux-gnu.sha256) | 98 B | `native/linux/x64/glibc` |
+| [treemd-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-unknown-linux-gnu.tar.gz) | 5.2 MiB | `native/linux/x64/glibc` |
+| [treemd-x86_64-unknown-linux-musl.sha256](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-unknown-linux-musl.sha256) | 99 B | `native/linux/x64/musl` |
+| [treemd-x86_64-unknown-linux-musl.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-unknown-linux-musl.tar.gz) | 5.3 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
@@ -30,15 +49,15 @@ x install treemd
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 34 · **开放 PR**: 2 · **已关闭 issue**: 38 · **开放 issue**: 3 · **提交数**: 333
+- **发布数**: 37 · **已合并 PR**: 36 · **开放 PR**: 1 · **已关闭 issue**: 38 · **开放 issue**: 3 · **提交数**: 335
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 9 | 2 | 4 | 3 | 17 |
-| 90d | 2026-06-12 | 2 | 13 | 2 | 5 | 3 | 35 |
-| 360d | 2025-09-15 | 37 | 34 | 2 | 38 | 3 | 311 |
+| 30d | 2026-08-11 | 1 | 11 | 1 | 4 | 3 | 19 |
+| 90d | 2026-06-12 | 2 | 15 | 1 | 5 | 3 | 37 |
+| 360d | 2025-09-15 | 37 | 36 | 1 | 38 | 3 | 313 |
 
 ## 代码规模
 
@@ -60,4 +79,4 @@ treemd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:41:46Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:23:27Z._
