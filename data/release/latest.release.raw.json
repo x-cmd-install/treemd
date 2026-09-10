@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4635550,
       "digest": "sha256:415189b8ca6d7a6abc4cf972a81c30f59313f662516057f35c3fcfa2fa65b172",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-27T16:23:08Z",
       "updated_at": "2026-08-27T16:23:09Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-aarch64-apple-darwin.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3502783,
       "digest": "sha256:a438d7c62e45917f5d7ecafd14a8250586e960c62e780890d4f66365073b7932",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-27T16:23:08Z",
       "updated_at": "2026-08-27T16:23:09Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-pc-windows-msvc.exe.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5546466,
       "digest": "sha256:f8e5c18051332ae4f6c97da287f82fd471c254d21e67118ace2fb55e48a20d5a",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-27T16:23:08Z",
       "updated_at": "2026-08-27T16:23:09Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.7.0/treemd-x86_64-unknown-linux-musl.tar.gz"
