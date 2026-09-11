@@ -14,14 +14,14 @@ x install treemd
 
 ## Code insight
 
-Total: **25,443** lines of code across **64** files in the top 5 languages.
+Total: **25,452** lines of code across **64** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 25,333 | 2,024 | 3,519 | 50 |
+| Rust | 25,342 | 2,027 | 3,521 | 50 |
 | Toml | 71 | 27 | 27 | 1 |
 | Sh | 39 | 5 | 11 | 1 |
-| Markdown | 0 | 2,963 | 1,084 | 12 |
+| Markdown | 0 | 2,976 | 1,088 | 12 |
 
 ## Source
 
@@ -31,7 +31,7 @@ Total: **25,443** lines of code across **64** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.0` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 15
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **25,443** lines of code across **64** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 37 · **Open PRs**: 0 · **Closed issues**: 40 · **Open issues**: 3 · **Commits**: 337
+- **Releases**: 38 · **Merged PRs**: 37 · **Open PRs**: 0 · **Closed issues**: 40 · **Open issues**: 3 · **Commits**: 338
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 8 | 0 | 6 | 3 | 21 |
-| last60d | 2026-07-13 | 3 | 16 | 0 | 6 | 3 | 36 |
-| 90d | 2026-06-13 | 3 | 16 | 0 | 7 | 3 | 39 |
-| last180d | 2026-03-15 | 5 | 22 | 0 | 8 | 3 | 72 |
-| 360d | 2025-09-16 | 38 | 37 | 0 | 40 | 3 | 315 |
-| last720d | 2024-09-21 | 38 | 37 | 0 | 40 | 3 | 337 |
+| 30d | 2026-08-12 | 2 | 8 | 0 | 6 | 3 | 22 |
+| last60d | 2026-07-13 | 3 | 16 | 0 | 6 | 3 | 37 |
+| 90d | 2026-06-13 | 3 | 16 | 0 | 7 | 3 | 40 |
+| last180d | 2026-03-15 | 5 | 22 | 0 | 8 | 3 | 73 |
+| 360d | 2025-09-16 | 38 | 37 | 0 | 40 | 3 | 316 |
+| last720d | 2024-09-21 | 38 | 37 | 0 | 40 | 3 | 338 |
 
 ## Release assets
 
@@ -75,13 +75,13 @@ Total: **25,443** lines of code across **64** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/treemd). **9** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/treemd). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.7.0` | ✅ latest |
-| Homebrew | `0.7.0` | ✅ latest |
-| Nix unstable | `0.7.0` | ✅ latest |
+| Arch | `0.8.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `0.7.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -92,4 +92,4 @@ Install metadata for treemd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:06:26Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:42:05Z._
