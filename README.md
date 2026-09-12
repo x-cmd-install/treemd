@@ -46,12 +46,12 @@ Total: **25,452** lines of code across **64** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 8 | 0 | 7 | 2 | 22 |
-| last60d | 2026-07-13 | 3 | 16 | 0 | 7 | 2 | 37 |
-| 90d | 2026-06-13 | 3 | 16 | 0 | 8 | 2 | 40 |
-| last180d | 2026-03-15 | 5 | 22 | 0 | 9 | 2 | 73 |
-| 360d | 2025-09-16 | 38 | 37 | 0 | 41 | 2 | 316 |
-| last720d | 2024-09-21 | 38 | 37 | 0 | 41 | 2 | 338 |
+| 30d | 2026-08-13 | 2 | 8 | 0 | 7 | 2 | 22 |
+| last60d | 2026-07-14 | 3 | 16 | 0 | 7 | 2 | 37 |
+| 90d | 2026-06-14 | 3 | 16 | 0 | 8 | 2 | 40 |
+| last180d | 2026-03-16 | 5 | 22 | 0 | 9 | 2 | 73 |
+| 360d | 2025-09-17 | 38 | 37 | 0 | 41 | 2 | 316 |
+| last720d | 2024-09-22 | 38 | 37 | 0 | 41 | 2 | 338 |
 
 ## Release assets
 
@@ -75,12 +75,12 @@ Total: **25,452** lines of code across **64** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/treemd). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/treemd). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.8.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.8.0` | ✅ latest |
 | Nix unstable | `0.7.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -92,4 +92,4 @@ Install metadata for treemd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:22:29Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:38:34Z._
