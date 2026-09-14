@@ -1,0 +1,117 @@
+about:
+  description: "A (TUI/CLI) markdown navigator with tree-based structural navigation."
+  license: MIT
+  homepage: 
+  head: f00c44f
+  archived: false
+  latestVersion: "v0.8.2"
+  latestRelease: "v0.8.2"
+  latestPrerelease: ""
+  collectedAt: 2026-09-14T05:14:57Z
+timeline:
+  created: 2025-11-08
+  lastCommit: 2026-09-13
+  lastVersion: 2026-09-13
+  lastRelease: 2026-09-13
+  lastPrerelease: 
+popularity:
+  star: 693
+  watcher: 3
+  fork: 29
+  release: 40
+  contributor: 15
+  pullRequest: 45
+  issue: 43
+language:
+  Rust: 1192843
+  Just: 4512
+  Shell: 1300
+totalBytes: 1198655
+recent:
+  last30d:
+    since: 2026-08-15
+    release: 4
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 8
+    openIssue: 1
+    commit: 19
+  last60d:
+    since: 2026-07-16
+    release: 5
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 8
+    openIssue: 1
+    commit: 40
+  last90d:
+    since: 2026-06-16
+    release: 5
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 9
+    openIssue: 1
+    commit: 43
+  last180d:
+    since: 2026-03-18
+    release: 7
+    mergedPR: 21
+    openPR: 0
+    closedIssue: 10
+    openIssue: 1
+    commit: 69
+  last360d:
+    since: 2025-09-19
+    release: 40
+    mergedPR: 37
+    openPR: 0
+    closedIssue: 42
+    openIssue: 1
+    commit: 319
+  last720d:
+    since: 2024-09-24
+    release: 40
+    mergedPR: 37
+    openPR: 0
+    closedIssue: 42
+    openIssue: 1
+    commit: 341
+total:
+  release: 40
+  mergedPR: 37
+  openPR: 0
+  closedIssue: 42
+  openIssue: 1
+  commit: 341
+---
+path: /home/runner/.x-repo/github.com/Epistates/treemd
+collectedAt: 2026-09-14T05:14:59Z
+loc:
+  Rust:
+    code: 25674
+    comments: 2049
+    blanks: 3546
+    files: 51
+  Toml:
+    code: 71
+    comments: 27
+    blanks: 27
+    files: 1
+  Sh:
+    code: 39
+    comments: 5
+    blanks: 11
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2987
+    blanks: 1099
+    files: 12
+total:
+  code: 26440
+  comments: 7083
+  blanks: 5119
+  files: 65
+---
+
+---
