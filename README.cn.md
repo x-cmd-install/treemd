@@ -14,14 +14,14 @@ x install treemd
 
 ## 代码洞察
 
-合计: **25,784** 行代码（覆盖前 5 种语言、共 **65** 个文件）。
+合计: **25,904** 行代码（覆盖前 5 种语言、共 **65** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 25,674 | 2,049 | 3,546 | 51 |
+| Rust | 25,794 | 2,084 | 3,558 | 51 |
 | Toml | 71 | 27 | 27 | 1 |
 | Sh | 39 | 5 | 11 | 1 |
-| Markdown | 0 | 2,987 | 1,099 | 12 |
+| Markdown | 0 | 3,002 | 1,115 | 12 |
 
 ## 源代码
 
@@ -30,48 +30,48 @@ x install treemd
 
 ## 发布
 
-- **最新版本**: `v0.8.2` (2026-09-13)
-- **最近提交**: 2026-09-13
+- **最新版本**: `v0.9.1` (2026-09-14)
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 693 · **Fork**: 29 · **开放 issue**: 43 · **贡献者**: 15
+- **Star**: 694 · **Fork**: 29 · **开放 issue**: 43 · **贡献者**: 15
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 37 · **开放 PR**: 0 · **已关闭 issue**: 42 · **开放 issue**: 1 · **提交数**: 341
+- **发布数**: 42 · **已合并 PR**: 37 · **开放 PR**: 0 · **已关闭 issue**: 43 · **开放 issue**: 0 · **提交数**: 344
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 4 | 8 | 0 | 8 | 1 | 19 |
-| last60d | 2026-07-16 | 5 | 16 | 0 | 8 | 1 | 40 |
-| 90d | 2026-06-16 | 5 | 16 | 0 | 9 | 1 | 43 |
-| last180d | 2026-03-18 | 7 | 21 | 0 | 10 | 1 | 69 |
-| 360d | 2025-09-19 | 40 | 37 | 0 | 42 | 1 | 319 |
-| last720d | 2024-09-24 | 40 | 37 | 0 | 42 | 1 | 341 |
+| 30d | 2026-08-16 | 6 | 8 | 0 | 9 | 0 | 22 |
+| last60d | 2026-07-17 | 7 | 16 | 0 | 9 | 0 | 43 |
+| 90d | 2026-06-17 | 7 | 16 | 0 | 10 | 0 | 46 |
+| last180d | 2026-03-19 | 9 | 21 | 0 | 11 | 0 | 72 |
+| 360d | 2025-09-20 | 42 | 37 | 0 | 43 | 0 | 322 |
+| last720d | 2024-09-25 | 42 | 37 | 0 | 43 | 0 | 344 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [SHA256SUMS](https://github.com/Epistates/treemd/releases/download/v0.8.2/SHA256SUMS) | 729 B | `other` |
-| [treemd-aarch64-apple-darwin.sha256](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-aarch64-apple-darwin.sha256) | 94 B | `native/darwin/arm64` |
-| [treemd-aarch64-apple-darwin.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-aarch64-apple-darwin.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
-| [treemd-aarch64-unknown-linux-gnu.sha256](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-aarch64-unknown-linux-gnu.sha256) | 99 B | `native/linux/arm64/glibc` |
-| [treemd-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-aarch64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/arm64/glibc` |
-| [treemd-aarch64-unknown-linux-musl.sha256](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-aarch64-unknown-linux-musl.sha256) | 100 B | `native/linux/arm64/musl` |
-| [treemd-aarch64-unknown-linux-musl.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-aarch64-unknown-linux-musl.tar.gz) | 5.0 MiB | `native/linux/arm64/musl` |
-| [treemd-x86_64-apple-darwin.sha256](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-x86_64-apple-darwin.sha256) | 93 B | `native/darwin/x64` |
-| [treemd-x86_64-apple-darwin.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-x86_64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/x64` |
-| [treemd-x86_64-pc-windows-msvc.exe.sha256](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-x86_64-pc-windows-msvc.exe.sha256) | 99 B | `native/win/x64` |
-| [treemd-x86_64-pc-windows-msvc.exe.zip](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-x86_64-pc-windows-msvc.exe.zip) | 3.3 MiB | `native/win/x64` |
-| [treemd-x86_64-unknown-linux-gnu.sha256](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-x86_64-unknown-linux-gnu.sha256) | 98 B | `native/linux/x64/glibc` |
-| [treemd-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-x86_64-unknown-linux-gnu.tar.gz) | 5.2 MiB | `native/linux/x64/glibc` |
-| [treemd-x86_64-unknown-linux-musl.sha256](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-x86_64-unknown-linux-musl.sha256) | 99 B | `native/linux/x64/musl` |
-| [treemd-x86_64-unknown-linux-musl.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.8.2/treemd-x86_64-unknown-linux-musl.tar.gz) | 5.3 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS](https://github.com/Epistates/treemd/releases/download/v0.9.1/SHA256SUMS) | 729 B | `other` |
+| [treemd-aarch64-apple-darwin.sha256](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-aarch64-apple-darwin.sha256) | 94 B | `native/darwin/arm64` |
+| [treemd-aarch64-apple-darwin.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-aarch64-apple-darwin.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
+| [treemd-aarch64-unknown-linux-gnu.sha256](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-aarch64-unknown-linux-gnu.sha256) | 99 B | `native/linux/arm64/glibc` |
+| [treemd-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-aarch64-unknown-linux-gnu.tar.gz) | 5.0 MiB | `native/linux/arm64/glibc` |
+| [treemd-aarch64-unknown-linux-musl.sha256](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-aarch64-unknown-linux-musl.sha256) | 100 B | `native/linux/arm64/musl` |
+| [treemd-aarch64-unknown-linux-musl.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-aarch64-unknown-linux-musl.tar.gz) | 5.0 MiB | `native/linux/arm64/musl` |
+| [treemd-x86_64-apple-darwin.sha256](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-apple-darwin.sha256) | 93 B | `native/darwin/x64` |
+| [treemd-x86_64-apple-darwin.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/x64` |
+| [treemd-x86_64-pc-windows-msvc.exe.sha256](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-pc-windows-msvc.exe.sha256) | 99 B | `native/win/x64` |
+| [treemd-x86_64-pc-windows-msvc.exe.zip](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-pc-windows-msvc.exe.zip) | 3.3 MiB | `native/win/x64` |
+| [treemd-x86_64-unknown-linux-gnu.sha256](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-unknown-linux-gnu.sha256) | 98 B | `native/linux/x64/glibc` |
+| [treemd-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-unknown-linux-gnu.tar.gz) | 5.2 MiB | `native/linux/x64/glibc` |
+| [treemd-x86_64-unknown-linux-musl.sha256](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-unknown-linux-musl.sha256) | 99 B | `native/linux/x64/musl` |
+| [treemd-x86_64-unknown-linux-musl.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-unknown-linux-musl.tar.gz) | 5.3 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ treemd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:15:08Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:07:03Z._
