@@ -4,7 +4,7 @@
 
 A (TUI/CLI) markdown navigator with tree-based structural navigation.
 
-![treemd](https://repo.x-cmd.io/treemd.svg?lang=zh)
+[![x-cmd/install — treemd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/treemd.svg?lang=zh)](https://x-cmd.com/install/treemd)
 
 ## 安装
 
@@ -36,7 +36,7 @@ x install treemd
 
 ## 流行度
 
-- **Star**: 695 · **Fork**: 29 · **开放 issue**: 43 · **贡献者**: 15
+- **Star**: 694 · **Fork**: 29 · **开放 issue**: 43 · **贡献者**: 15
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install treemd
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 7 | 1 | 9 | 0 | 22 |
-| last60d | 2026-07-20 | 7 | 16 | 1 | 9 | 0 | 43 |
-| 90d | 2026-06-20 | 7 | 16 | 1 | 10 | 0 | 46 |
-| last180d | 2026-03-22 | 9 | 21 | 1 | 11 | 0 | 72 |
-| 360d | 2025-09-23 | 42 | 37 | 1 | 43 | 0 | 322 |
-| last720d | 2024-09-28 | 42 | 37 | 1 | 43 | 0 | 344 |
+| 30d | 2026-08-21 | 6 | 5 | 1 | 8 | 0 | 13 |
+| last60d | 2026-07-22 | 7 | 16 | 1 | 9 | 0 | 38 |
+| 90d | 2026-06-22 | 7 | 16 | 1 | 9 | 0 | 43 |
+| last180d | 2026-03-24 | 9 | 21 | 1 | 11 | 0 | 72 |
+| 360d | 2025-09-25 | 42 | 37 | 1 | 43 | 0 | 322 |
+| last720d | 2024-09-30 | 42 | 37 | 1 | 43 | 0 | 344 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ treemd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:59:45Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:04:04Z._
