@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:93cbb9b3d6d38c67607a73d8ea1e06e5c511e1db38c3d8e7c6a25513daa37d53",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-14T21:32:56Z",
       "updated_at": "2026-09-14T21:32:56Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-aarch64-unknown-linux-musl.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:50f59011a171ae4f8a1e1bdf8b597507b4ac8a2a8cd126d7f2eaec5045220e02",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-14T21:32:56Z",
       "updated_at": "2026-09-14T21:32:56Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-pc-windows-msvc.exe.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3512417,
       "digest": "sha256:0e9fcb156b06a41d542e8d397dc7ecb32f9c7dd47906d4c82e2591a0ed4be24a",
-      "download_count": 46,
+      "download_count": 49,
       "created_at": "2026-09-14T21:32:56Z",
       "updated_at": "2026-09-14T21:32:56Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-pc-windows-msvc.exe.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5441284,
       "digest": "sha256:7783d4d7d5e157f7caef17d1aa6971796fef8245f6f93d3f07edbabebc246301",
-      "download_count": 46,
+      "download_count": 49,
       "created_at": "2026-09-14T21:32:56Z",
       "updated_at": "2026-09-14T21:32:56Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-unknown-linux-gnu.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5559095,
       "digest": "sha256:147f76d1e10223b4de738a97a676759ee06ae4447da02572a01ef865ca249605",
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2026-09-14T21:32:56Z",
       "updated_at": "2026-09-14T21:32:56Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.9.1/treemd-x86_64-unknown-linux-musl.tar.gz"
