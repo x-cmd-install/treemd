@@ -14,14 +14,15 @@ x install treemd
 
 ## Code insight
 
-Total: **25,904** lines of code across **65** files in the top 5 languages.
+Total: **30,101** lines of code across **78** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 25,794 | 2,084 | 3,558 | 51 |
-| Toml | 71 | 27 | 27 | 1 |
-| Sh | 39 | 5 | 11 | 1 |
-| Markdown | 0 | 3,002 | 1,115 | 12 |
+| Rust | 29,910 | 2,296 | 3,842 | 62 |
+| Toml | 107 | 53 | 33 | 2 |
+| Sh | 84 | 32 | 15 | 2 |
+| Markdown | 0 | 2,999 | 1,030 | 11 |
+| Text | 0 | 7 | 0 | 1 |
 
 ## Source
 
@@ -31,7 +32,7 @@ Total: **25,904** lines of code across **65** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.1` (2026-09-14)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-14
 - **Assets in release**: 15
 
 ## Popularity
@@ -40,18 +41,18 @@ Total: **25,904** lines of code across **65** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 38 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 0 · **Commits**: 345
+- **Releases**: 42 · **Merged PRs**: 39 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 0 · **Commits**: 346
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-08-15 | 6 | 9 | 1 | 9 | 0 | 29 |
-| 90d | 2026-07-16 | 7 | 17 | 1 | 9 | 0 | 44 |
-| last180d | 2026-04-17 | 9 | 21 | 1 | 10 | 0 | 67 |
-| 360d | 2025-10-19 | 42 | 38 | 1 | 43 | 0 | 323 |
-| last720d | 2024-10-24 | 42 | 38 | 1 | 43 | 0 | 345 |
+| 30d | 2026-09-15 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-16 | 6 | 10 | 1 | 9 | 0 | 30 |
+| 90d | 2026-07-17 | 7 | 18 | 1 | 9 | 0 | 45 |
+| last180d | 2026-04-18 | 9 | 21 | 1 | 10 | 0 | 68 |
+| 360d | 2025-10-20 | 42 | 39 | 1 | 43 | 0 | 324 |
+| last720d | 2024-10-25 | 42 | 39 | 1 | 43 | 0 | 346 |
 
 ## Release assets
 
@@ -82,4 +83,4 @@ Install metadata for treemd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:13:07Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:39:00Z._
