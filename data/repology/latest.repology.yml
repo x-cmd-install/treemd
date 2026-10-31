@@ -1,3 +1,25 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: treemd
+  binname: treemd
+  visiblename: treemd
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: A markdown navigator with tree-based structural navigation
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: treemd
+  visiblename: treemd
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: TUI/CLI markdown navigator with tree-based structural navigation
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: treemd
@@ -57,28 +79,6 @@
   summary: A markdown navigator with tree-based structural navigation
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: treemd
-  binname: treemd
-  visiblename: treemd
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: newest
-  summary: A markdown navigator with tree-based structural navigation
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: treemd
-  visiblename: treemd
-  version: 0.2.1
-  origversion: null
-  status: outdated
-  summary: TUI/CLI markdown navigator with tree-based structural navigation
-  maintainers:
-    - yiyu@yiyuzhou.io
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: treemd
   visiblename: treemd
@@ -93,9 +93,9 @@
 - repo: nix_unstable
   srcname: treemd
   visiblename: treemd
-  version: 0.9.1
+  version: 0.10.0
   origversion: null
-  status: outdated
+  status: newest
   summary: TUI/CLI markdown navigator with tree-based structural navigation
   maintainers:
     - yiyu@yiyuzhou.io
