@@ -37,22 +37,22 @@ Total: **30,049** lines of code across **79** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 725 · **Forks**: 30 · **Open issues**: 44 · **Contributors**: 15
+- **Stars**: 727 · **Forks**: 30 · **Open issues**: 44 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 40 · **Open PRs**: 5 · **Closed issues**: 43 · **Open issues**: 1 · **Commits**: 347
+- **Releases**: 43 · **Merged PRs**: 40 · **Open PRs**: 6 · **Closed issues**: 43 · **Open issues**: 1 · **Commits**: 347
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 2 | 5 | 0 | 1 | 2 |
-| last60d | 2026-08-31 | 6 | 7 | 5 | 3 | 1 | 16 |
-| 90d | 2026-08-01 | 7 | 16 | 5 | 9 | 1 | 31 |
-| last180d | 2026-05-03 | 9 | 22 | 5 | 10 | 1 | 57 |
-| 360d | 2025-11-04 | 43 | 40 | 5 | 43 | 1 | 325 |
-| last720d | 2024-11-09 | 43 | 40 | 5 | 43 | 1 | 347 |
+| 30d | 2026-10-01 | 1 | 2 | 6 | 0 | 1 | 2 |
+| last60d | 2026-09-01 | 6 | 7 | 6 | 3 | 1 | 16 |
+| 90d | 2026-08-02 | 7 | 16 | 6 | 9 | 1 | 31 |
+| last180d | 2026-05-04 | 9 | 22 | 6 | 10 | 1 | 57 |
+| 360d | 2025-11-05 | 43 | 40 | 6 | 43 | 1 | 325 |
+| last720d | 2024-11-10 | 43 | 40 | 6 | 43 | 1 | 347 |
 
 ## Release assets
 
@@ -76,13 +76,13 @@ Total: **30,049** lines of code across **79** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/treemd). **6** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/treemd). **7** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.10.0` | ✅ latest |
 | Homebrew | `0.10.0` | ✅ latest |
-| Nix unstable | `0.9.1` | ⚠️ outdated |
+| Nix unstable | `0.10.0` | ✅ latest |
 
 ## Improve this data
 
@@ -93,4 +93,4 @@ Install metadata for treemd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:46:02Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:35:33Z._
