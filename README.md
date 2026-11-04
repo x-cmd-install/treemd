@@ -32,27 +32,27 @@ Total: **30,049** lines of code across **79** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-10-18)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-11-03
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 728 · **Forks**: 30 · **Open issues**: 44 · **Contributors**: 15
+- **Stars**: 729 · **Forks**: 30 · **Open issues**: 44 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 40 · **Open PRs**: 7 · **Closed issues**: 43 · **Open issues**: 1 · **Commits**: 347
+- **Releases**: 43 · **Merged PRs**: 42 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 1 · **Commits**: 349
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 2 | 7 | 0 | 1 | 2 |
-| last60d | 2026-09-04 | 6 | 6 | 7 | 3 | 1 | 16 |
-| 90d | 2026-08-05 | 7 | 15 | 7 | 9 | 1 | 31 |
-| last180d | 2026-05-07 | 9 | 22 | 7 | 10 | 1 | 53 |
-| 360d | 2025-11-08 | 43 | 40 | 7 | 43 | 1 | 284 |
-| last720d | 2024-11-13 | 43 | 40 | 7 | 43 | 1 | 347 |
+| 30d | 2026-10-05 | 1 | 4 | 1 | 0 | 1 | 4 |
+| last60d | 2026-09-05 | 6 | 8 | 1 | 2 | 1 | 18 |
+| 90d | 2026-08-06 | 7 | 17 | 1 | 9 | 1 | 33 |
+| last180d | 2026-05-08 | 9 | 24 | 1 | 10 | 1 | 55 |
+| 360d | 2025-11-09 | 40 | 42 | 1 | 43 | 1 | 286 |
+| last720d | 2024-11-14 | 43 | 42 | 1 | 43 | 1 | 349 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for treemd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:45:49Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:17:37Z._
