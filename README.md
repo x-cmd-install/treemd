@@ -47,12 +47,12 @@ Total: **30,049** lines of code across **79** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 4 | 1 | 0 | 2 | 4 |
-| last60d | 2026-09-07 | 6 | 8 | 1 | 2 | 2 | 18 |
-| 90d | 2026-08-08 | 7 | 17 | 1 | 9 | 2 | 33 |
-| last180d | 2026-05-10 | 9 | 24 | 1 | 10 | 2 | 55 |
-| 360d | 2025-11-11 | 35 | 42 | 1 | 43 | 2 | 286 |
-| last720d | 2024-11-16 | 43 | 42 | 1 | 43 | 2 | 349 |
+| 30d | 2026-10-08 | 1 | 4 | 1 | 0 | 2 | 4 |
+| last60d | 2026-09-08 | 6 | 8 | 1 | 2 | 2 | 18 |
+| 90d | 2026-08-09 | 7 | 17 | 1 | 9 | 2 | 33 |
+| last180d | 2026-05-11 | 9 | 24 | 1 | 10 | 2 | 55 |
+| 360d | 2025-11-12 | 35 | 42 | 1 | 43 | 2 | 286 |
+| last720d | 2024-11-17 | 43 | 42 | 1 | 43 | 2 | 349 |
 
 ## Release assets
 
@@ -74,6 +74,16 @@ Total: **30,049** lines of code across **79** files in the top 5 languages.
 | [treemd-x86_64-unknown-linux-musl.sha256](https://github.com/Epistates/treemd/releases/download/v0.10.0/treemd-x86_64-unknown-linux-musl.sha256) | 99 B | `native/linux/x64/musl` |
 | [treemd-x86_64-unknown-linux-musl.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.10.0/treemd-x86_64-unknown-linux-musl.tar.gz) | 5.4 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **14** distros on [repology.org](https://repology.org/project/treemd). **8** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.10.0` | ✅ latest |
+| Homebrew | `0.10.0` | ✅ latest |
+| Nix unstable | `0.10.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for treemd lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `treemd` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +93,4 @@ Install metadata for treemd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:36:50Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:59:04Z._
