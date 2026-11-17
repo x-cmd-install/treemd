@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: treemd
+  visiblename: treemd
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: TUI/CLI markdown navigator with tree-based structural navigation
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: treemd
@@ -5,7 +16,7 @@
   visiblename: treemd
   version: 0.10.0
   origversion: 0.10.0-1
-  status: newest
+  status: outdated
   summary: A markdown navigator with tree-based structural navigation
   licenses:
     - MIT
@@ -15,7 +26,7 @@
   visiblename: sysutils/treemd
   version: 0.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI/CLI markdown navigator with tree-based structural navigation
   maintainers:
     - nivit@freebsd.org
@@ -24,7 +35,7 @@
 - repo: homebrew
   srcname: treemd
   visiblename: treemd
-  version: 0.10.0
+  version: 0.11.0
   origversion: null
   status: newest
   summary: TUI and CLI dual pane markdown viewer
@@ -53,7 +64,7 @@
   visiblename: treemd
   version: 0.10.0
   origversion: 0.10.0-1
-  status: newest
+  status: outdated
   summary: A markdown navigator with tree-based structural navigation
   licenses:
     - MIT
@@ -64,19 +75,8 @@
   visiblename: treemd
   version: 0.10.0
   origversion: 0.10.0-1
-  status: newest
-  summary: A markdown navigator with tree-based structural navigation
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: treemd
-  visiblename: treemd
-  version: 0.2.1
-  origversion: null
   status: outdated
-  summary: TUI/CLI markdown navigator with tree-based structural navigation
-  maintainers:
-    - yiyu@yiyuzhou.io
+  summary: A markdown navigator with tree-based structural navigation
   licenses:
     - MIT
 - repo: nix_stable_26_05
@@ -95,7 +95,7 @@
   visiblename: treemd
   version: 0.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI/CLI markdown navigator with tree-based structural navigation
   maintainers:
     - yiyu@yiyuzhou.io
@@ -108,7 +108,7 @@
   visiblename: treemd
   version: 0.10.0
   origversion: 0.10.0-1
-  status: newest
+  status: outdated
   summary: A markdown navigator with tree-based structural navigation
   licenses:
     - MIT
@@ -142,7 +142,7 @@
   visiblename: textproc/treemd
   version: 0.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI/CLI markdown navigator with tree-based structural navigation
   maintainers:
     - pin@netbsd.org
