@@ -1,14 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: treemd
-  visiblename: treemd
-  version: 0.2.1
-  origversion: null
-  status: outdated
-  summary: TUI/CLI markdown navigator with tree-based structural navigation
-  maintainers:
-    - yiyu@yiyuzhou.io
-  licenses:
-    - MIT
 - repo: arch
   subrepo: extra
   srcname: treemd
@@ -79,6 +68,17 @@
   summary: A markdown navigator with tree-based structural navigation
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: treemd
+  visiblename: treemd
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: TUI/CLI markdown navigator with tree-based structural navigation
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: treemd
   visiblename: treemd
@@ -140,9 +140,9 @@
   srcname: textproc/treemd
   binname: treemd
   visiblename: textproc/treemd
-  version: 0.10.0
+  version: 0.11.0
   origversion: null
-  status: outdated
+  status: newest
   summary: TUI/CLI markdown navigator with tree-based structural navigation
   maintainers:
     - pin@netbsd.org
