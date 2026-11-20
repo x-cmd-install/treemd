@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 729,
       "digest": "sha256:2d5e6dc48a776873680707e2bae119fd45b0f0a2451eeb8e9e1ac40995ac4f8e",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:40Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/SHA256SUMS"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4741045,
       "digest": "sha256:95697c3269fad8b8326748f0b4bf6aa73451b0d5996c39ea5116b78c687b121d",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:40Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5361464,
       "digest": "sha256:0ee81101129580230031922cda53a91e116ea6dd9cf0bfb584a2df8659367559",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:40Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5353241,
       "digest": "sha256:1c4f5c12060afe733e78c55920c2c4633f5c93efa7bc7420db6d5b29f64ee470",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:40Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5096640,
       "digest": "sha256:36078f785a011d414d2d965e0d8e8c3f94cd045f44c478f08e56d13b1fcfb0e8",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:40Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-x86_64-apple-darwin.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3478303,
       "digest": "sha256:1b5afcf013a6eed51a8723ff6c47f66e8db5d80d41968f15b33fd2d0c236d622",
-      "download_count": 12,
+      "download_count": 16,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:40Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-x86_64-pc-windows-msvc.exe.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5557984,
       "digest": "sha256:49adb69dca1bbe3ed1ae60adc844941d59285f90c6cf3c29529eaac7de8d0be2",
-      "download_count": 15,
+      "download_count": 22,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:40Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-x86_64-unknown-linux-gnu.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5650674,
       "digest": "sha256:31aab4df88917523cce7a30e456152dbb0dfb42e66e71e23e0ec2df930c10811",
-      "download_count": 11,
+      "download_count": 16,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:41Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-x86_64-unknown-linux-musl.tar.gz"
@@ -580,5 +580,17 @@
   "tarball_url": "https://api.github.com/repos/Epistates/treemd/tarball/v0.11.0",
   "zipball_url": "https://api.github.com/repos/Epistates/treemd/zipball/v0.11.0",
   "body": "## What's Changed\n* deps: update the lockfile and resvg 0.49, bump the CI action pins by @nicholasjpaterno in https://github.com/Epistates/treemd/pull/104\n* ci: one Dependabot PR for every ecosystem, and skip unicode-width 0.2.3 by @nicholasjpaterno in https://github.com/Epistates/treemd/pull/105\n* release: 0.11.0 by @nicholasjpaterno in https://github.com/Epistates/treemd/pull/110\n* Optional outline popup over the whole document by @videni in https://github.com/Epistates/treemd/pull/108\n* Mermaid diagrams scroll with the text, are sent once, and stay visible in tmux by @videni in https://github.com/Epistates/treemd/pull/109\n\n## New Contributors\n* @videni made their first contribution in https://github.com/Epistates/treemd/pull/108\n\n**Full Changelog**: https://github.com/Epistates/treemd/compare/v0.10.0...v0.11.0",
+  "reactions": {
+    "url": "https://api.github.com/repos/Epistates/treemd/releases/447726830/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 1,
+    "eyes": 0
+  },
   "mentions_count": 2
 }
