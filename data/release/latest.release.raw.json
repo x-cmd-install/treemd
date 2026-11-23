@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5557984,
       "digest": "sha256:49adb69dca1bbe3ed1ae60adc844941d59285f90c6cf3c29529eaac7de8d0be2",
-      "download_count": 34,
+      "download_count": 39,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:40Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-x86_64-unknown-linux-gnu.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5650674,
       "digest": "sha256:31aab4df88917523cce7a30e456152dbb0dfb42e66e71e23e0ec2df930c10811",
-      "download_count": 26,
+      "download_count": 28,
       "created_at": "2026-11-16T23:07:40Z",
       "updated_at": "2026-11-16T23:07:41Z",
       "browser_download_url": "https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-x86_64-unknown-linux-musl.tar.gz"
