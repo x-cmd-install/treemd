@@ -40,8 +40,8 @@
   srcname: treemd
   binname: treemd
   visiblename: treemd
-  version: 0.9.1
-  origversion: 0.9.1-1
+  version: 0.10.0
+  origversion: 0.10.0-1
   status: outdated
   summary: A markdown navigator with tree-based structural navigation
   licenses:
