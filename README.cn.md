@@ -37,7 +37,7 @@ x install treemd
 
 ## 流行度
 
-- **Star**: 737 · **Fork**: 31 · **开放 issue**: 45 · **贡献者**: 15
+- **Star**: 738 · **Fork**: 31 · **开放 issue**: 45 · **贡献者**: 15
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install treemd
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 7 | 0 | 2 | 0 | 9 |
-| last60d | 2026-09-25 | 2 | 9 | 0 | 2 | 0 | 12 |
-| 90d | 2026-08-26 | 8 | 14 | 0 | 5 | 0 | 25 |
-| last180d | 2026-05-28 | 10 | 29 | 0 | 12 | 0 | 61 |
-| 360d | 2025-11-29 | 29 | 46 | 0 | 42 | 0 | 219 |
-| last720d | 2024-12-04 | 44 | 47 | 0 | 45 | 0 | 360 |
+| 30d | 2026-10-26 | 1 | 7 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-26 | 2 | 9 | 0 | 2 | 0 | 12 |
+| 90d | 2026-08-27 | 8 | 14 | 0 | 5 | 0 | 25 |
+| last180d | 2026-05-29 | 10 | 29 | 0 | 12 | 0 | 61 |
+| 360d | 2025-11-30 | 29 | 46 | 0 | 42 | 0 | 219 |
+| last720d | 2024-12-05 | 44 | 47 | 0 | 45 | 0 | 360 |
 
 ## Release 资产
 
@@ -74,16 +74,6 @@ x install treemd
 | [treemd-x86_64-unknown-linux-musl.sha256](https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-x86_64-unknown-linux-musl.sha256) | 99 B | `native/linux/x64/musl` |
 | [treemd-x86_64-unknown-linux-musl.tar.gz](https://github.com/Epistates/treemd/releases/download/v0.11.0/treemd-x86_64-unknown-linux-musl.tar.gz) | 5.4 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/treemd) 上共有 **14** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.10.0` | ⚠️ outdated |
-| Homebrew | `0.11.0` | ✅ latest |
-| Nix unstable | `0.10.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 treemd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `treemd` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -93,4 +83,4 @@ treemd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:03:16Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:29:58Z._
