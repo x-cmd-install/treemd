@@ -47,12 +47,12 @@ Total: **30,583** lines of code across **80** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 8 | 0 | 1 | 0 | 0 |
-| last60d | 2026-09-28 | 2 | 10 | 0 | 2 | 0 | 0 |
-| 90d | 2026-08-29 | 7 | 15 | 0 | 5 | 0 | 0 |
-| last180d | 2026-05-31 | 10 | 30 | 0 | 12 | 0 | 0 |
-| 360d | 2025-12-02 | 27 | 41 | 0 | 39 | 0 | 0 |
-| last720d | 2024-12-07 | 44 | 48 | 0 | 45 | 0 | 361 |
+| 30d | 2026-10-29 | 1 | 8 | 0 | 1 | 0 | 10 |
+| last60d | 2026-09-29 | 2 | 10 | 0 | 2 | 0 | 13 |
+| 90d | 2026-08-30 | 7 | 15 | 0 | 5 | 0 | 26 |
+| last180d | 2026-06-01 | 10 | 29 | 0 | 12 | 0 | 62 |
+| 360d | 2025-12-03 | 26 | 40 | 0 | 38 | 0 | 220 |
+| last720d | 2024-12-08 | 44 | 48 | 0 | 45 | 0 | 361 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for treemd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:30:09Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:43:31Z._
