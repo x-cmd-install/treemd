@@ -1,0 +1,122 @@
+about:
+  description: "A (TUI/CLI) markdown navigator with tree-based structural navigation."
+  license: MIT
+  homepage: 
+  head: 6180d35
+  archived: false
+  latestVersion: "v0.11.0"
+  latestRelease: "v0.11.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:43:09Z
+timeline:
+  created: 2025-11-08
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-16
+  lastRelease: 2026-11-16
+  lastPrerelease: 
+popularity:
+  star: 739
+  watcher: 3
+  fork: 31
+  release: 44
+  contributor: 15
+  pullRequest: 68
+  issue: 45
+language:
+  Rust: 1458242
+  Just: 7202
+  Shell: 4386
+totalBytes: 1469830
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 10
+  last60d:
+    since: 2026-09-29
+    release: 2
+    mergedPR: 10
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 13
+  last90d:
+    since: 2026-08-30
+    release: 7
+    mergedPR: 15
+    openPR: 0
+    closedIssue: 5
+    openIssue: 0
+    commit: 26
+  last180d:
+    since: 2026-06-01
+    release: 10
+    mergedPR: 29
+    openPR: 0
+    closedIssue: 12
+    openIssue: 0
+    commit: 62
+  last360d:
+    since: 2025-12-03
+    release: 26
+    mergedPR: 40
+    openPR: 0
+    closedIssue: 38
+    openIssue: 0
+    commit: 220
+  last720d:
+    since: 2024-12-08
+    release: 44
+    mergedPR: 48
+    openPR: 0
+    closedIssue: 45
+    openIssue: 0
+    commit: 361
+total:
+  release: 44
+  mergedPR: 48
+  openPR: 0
+  closedIssue: 45
+  openIssue: 0
+  commit: 361
+---
+path: /home/runner/.x-repo/github.com/Epistates/treemd
+collectedAt: 2026-11-28T07:43:11Z
+loc:
+  Rust:
+    code: 30391
+    comments: 2234
+    blanks: 3834
+    files: 64
+  Toml:
+    code: 108
+    comments: 53
+    blanks: 33
+    files: 2
+  Sh:
+    code: 84
+    comments: 32
+    blanks: 15
+    files: 2
+  Markdown:
+    code: 0
+    comments: 2994
+    blanks: 995
+    files: 11
+  Text:
+    code: 0
+    comments: 7
+    blanks: 0
+    files: 1
+total:
+  code: 31245
+  comments: 8458
+  blanks: 5433
+  files: 80
+---
+
+---
